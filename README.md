@@ -36,16 +36,16 @@
  
   
  
-  <p style="text-align:right;font-size:20px;color:red">
+  <p style="text-align:right;font-size:40px;color:red">
 Місце
 Guest&partyHOUSE вул. Жилянская, 97, 3 этаж, вход во двор
   </p>
-  <p style="text-align:right;font-size:20px;color:White">
+  <p style="text-align:right;font-size:40px;color:White">
 Не забудь про дрес-код - БІЛА ФУТБОЛКА та темний низ 🖤 🤍🦓 
   </p>
  
 
-  <p style="text-align:right;font-size:20px;color:red">
+  <p style="text-align:right;font-size:60px;color:red">
 Твій друг Тімур
   </p>
 
