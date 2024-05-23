@@ -47,7 +47,4 @@ Guest&partyHOUSE вул. Жилянская, 97, 3 этаж, вход во дв�
   </p>
 
   </body>
-  <title>
-  Invitation to my birthday
-  </title>
 </html>
