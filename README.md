@@ -6,7 +6,7 @@
    Квести. Мафія. Ведучий.
     </p> 
   
-  <p style="text-align:center;color:White;font-size:60px">
+  <p style="text-align:center;color:White;font-size:60px"> 
   
    Дорогі Егор, Олено, Серьожо💖 
     </p>
