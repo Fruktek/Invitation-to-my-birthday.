@@ -37,7 +37,7 @@
   
  
   <p style="text-align:right;font-size:40px;color:red">
-Місце
+B
 Guest&partyHOUSE вул. Жилянская, 97, 3 этаж, вход во двор
   </p>
   <p style="text-align:right;font-size:40px;color:White">
