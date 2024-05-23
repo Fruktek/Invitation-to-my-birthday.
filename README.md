@@ -16,7 +16,7 @@
   <p style="text-align:center;font-size:60px;color:red">
  Запрошую вас на вечірку😎🎶💃
   </p>
- <p style="text-align:center;font-size:50px;color:red">
+ <p style="text-align:center;font-size:40px;color:red">
  з приводу мого 
  </p>
  <p style="text-align:center;font-size:70px;color:red">
