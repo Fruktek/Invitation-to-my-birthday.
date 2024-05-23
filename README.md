@@ -28,7 +28,7 @@
   <p style="text-align:center;font-size:60px;color:red">
  о 15-00,
   </p>
-<p style="text-align:center;font-size:40px;color:red">
+<p style="text-align:center;font-size:40px;color:red"> 
  тому чекаю вас з нетерпінням завчасно
  </p>
 
