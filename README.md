@@ -48,7 +48,7 @@ Guest&partyHOUSE вул. Жилянская, 97, 3 этаж, вход во дв�
  </p>
 
   <p style="text-align:right;font-size:60px;color:red">
-Твій друг Тімур
+Тімур
   </p>
 
   </body>
