@@ -2,7 +2,7 @@
 <html>
   <body style="background-color:black">
 
-    <p style="text-align:center;color:White;font-size:40px">
+    <p style="text-align:center;color:White;font-size:40px"> 
    Квести. Мафія. Ведучий.
     </p> 
   
