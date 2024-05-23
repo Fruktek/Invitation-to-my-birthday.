@@ -10,7 +10,7 @@
   
    Дорогі Ілля та Інно💖
     </p>
-  <p style="text-align:center;font-size:70px;color:red">
+  <p style="text-align:center;font-size:70px;color:red">      
  09 червня 2024 року
   </p>
   <p style="text-align:center;font-size:60px;color:red">
