@@ -22,10 +22,13 @@
  <p style="text-align:center;font-size:70px;color:red">
 Дня народження 🎂
   </p>
-<p style="text-align:center;font-size:60px;color:red">
- Програма розпочнеться з 15-00 
+<p style="text-align:center;font-size:40px;color:red">
+ Програма розпочнется 
   </p>
-<p style="text-align:center;font-size:50px;color:red">
+  <p style="text-align:center;font-size:60px;color:red">
+ о 15-00,
+  </p>
+<p style="text-align:center;font-size:40px;color:red">
  тому чекаю вас з нетерпінням завчасно
  </p>
 
