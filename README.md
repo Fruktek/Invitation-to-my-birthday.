@@ -8,7 +8,7 @@
   
   <p style="text-align:center;color:White;font-size:60px">
   
-   Дорогі Егор, Олено, Серьожо💖
+   Дорогі Егор, Олено, Серьожо💖 
     </p>
   <p style="text-align:center;font-size:70px;color:red">      
  09 червня 2024 року
